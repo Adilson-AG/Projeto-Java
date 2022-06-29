@@ -1,7 +1,7 @@
 # **Projeto-Java
 
 ## Objetivo do projeto 
-### - Colocar em prática POO com java;
+- Colocar em prática POO com java;
 - Desenvolver a estrutura do banco de dados utilizando das boas práticas aprendidas em aula;
 - Usar o conhecimento adquirido na matéria de engenharia de software: desenvolver diagramas UML( classe, sequência, atividades), definição de escopo, utilizar 
 ferramentas para gerenciamneto do projeto; <h3>
