@@ -7,8 +7,8 @@
 ferramentas para gerenciamneto do projeto; <h3>
 
  ## Softwares/IDE 
--Eclipse -> IDE usada para o desenvolvimento do software em java;
--SQLServer -> Banco de dados usado para armazenar os dados;
--Trello -> usado para gestão do projeto usando a metodologia agil Scrum;
--Astha -> usado para desenvolvimento dos diagramas;
--BrModelo -> usado para desenvolvimento do MER relacionado nosso projeto;
+- Eclipse -> IDE usada para o desenvolvimento do software em java;
+- SQLServer -> Banco de dados usado para armazenar os dados;
+- Trello -> usado para gestão do projeto usando a metodologia agil Scrum;
+- Astha -> usado para desenvolvimento dos diagramas;
+- BrModelo -> usado para desenvolvimento do MER relacionado nosso projeto;
